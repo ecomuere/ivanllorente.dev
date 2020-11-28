@@ -2,6 +2,7 @@
   "private": true,
   "workspaces": [
     "website",
-    "design-system"
+    "design-system",
+    "dashboard"
   ]
 }
